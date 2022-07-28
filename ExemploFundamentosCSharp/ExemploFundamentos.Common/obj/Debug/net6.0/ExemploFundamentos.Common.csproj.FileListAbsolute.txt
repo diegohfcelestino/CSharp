@@ -1,0 +1,12 @@
+C:\Projetos\ExemploFundamentosCSharp\ExemploFundamentos.Common\bin\Debug\net6.0\ExemploFundamentos.Common.deps.json
+C:\Projetos\ExemploFundamentosCSharp\ExemploFundamentos.Common\bin\Debug\net6.0\ExemploFundamentos.Common.dll
+C:\Projetos\ExemploFundamentosCSharp\ExemploFundamentos.Common\bin\Debug\net6.0\ExemploFundamentos.Common.pdb
+C:\Projetos\ExemploFundamentosCSharp\ExemploFundamentos.Common\obj\Debug\net6.0\ExemploFundamentos.Common.csproj.AssemblyReference.cache
+C:\Projetos\ExemploFundamentosCSharp\ExemploFundamentos.Common\obj\Debug\net6.0\ExemploFundamentos.Common.GeneratedMSBuildEditorConfig.editorconfig
+C:\Projetos\ExemploFundamentosCSharp\ExemploFundamentos.Common\obj\Debug\net6.0\ExemploFundamentos.Common.AssemblyInfoInputs.cache
+C:\Projetos\ExemploFundamentosCSharp\ExemploFundamentos.Common\obj\Debug\net6.0\ExemploFundamentos.Common.AssemblyInfo.cs
+C:\Projetos\ExemploFundamentosCSharp\ExemploFundamentos.Common\obj\Debug\net6.0\ExemploFundamentos.Common.csproj.CoreCompileInputs.cache
+C:\Projetos\ExemploFundamentosCSharp\ExemploFundamentos.Common\obj\Debug\net6.0\ExemploFundamentos.Common.dll
+C:\Projetos\ExemploFundamentosCSharp\ExemploFundamentos.Common\obj\Debug\net6.0\refint\ExemploFundamentos.Common.dll
+C:\Projetos\ExemploFundamentosCSharp\ExemploFundamentos.Common\obj\Debug\net6.0\ExemploFundamentos.Common.pdb
+C:\Projetos\ExemploFundamentosCSharp\ExemploFundamentos.Common\obj\Debug\net6.0\ref\ExemploFundamentos.Common.dll
