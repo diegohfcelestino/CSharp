@@ -1,12 +1,33 @@
 ﻿using ExemploExplorando.Models;
 using System.Globalization;
 
-CultureInfo.DefaultThreadCurrentCulture = new CultureInfo("pt-BR");
 
 
-decimal valorMonetario = 1956.40M;
+string[] linhas = File.ReadAllLines("Arquivos/arquivo_Leitura.txt");
 
-Console.WriteLine(valorMonetario.ToString("C", CultureInfo.CreateSpecificCulture("en-US")));
+foreach (string linha in linhas)
+{
+  Console.WriteLine(linha);
+}
+
+
+
+
+
+
+
+
+
+
+
+
+
+// CultureInfo.DefaultThreadCurrentCulture = new CultureInfo("pt-BR");
+
+
+// decimal valorMonetario = 1956.40M;
+
+// Console.WriteLine(valorMonetario.ToString("C", CultureInfo.CreateSpecificCulture("en-US")));
 
 
 
